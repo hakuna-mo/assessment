@@ -1,0 +1,19 @@
+body{
+    background-color:#00AABB;
+    color: hsl(56, 65%, 87%);
+     width:500px;
+    margin-right: auto;
+    margin-left: auto
+}
+button{
+    padding: 5px 20px;
+    background-color: #6b5b46;
+    border-style: none;
+    color: hsl(56, 65%, 87%);   
+}
+input{
+    height: 22.6px
+}
+
+
+    
